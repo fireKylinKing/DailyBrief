@@ -4,7 +4,7 @@ name: Daily Brief
 #
 # One-time setup for forkers (see README → "Run on GitHub Actions"):
 #   1. Settings → Actions → General → enable workflows (forked repos start disabled)
-#   2. Settings → Pages → Build & deployment → Source: "Deploy from a branch" → gh-pages / root
+#   2. Settings → Pages → Build & deployment → Source: GitHub Actions
 #   3. Settings → Secrets and variables → Actions:
 #        - Secrets: DEEPSEEK_API_KEY (or ANTHROPIC / OPENAI / MINIMAX / ZHIPU as you prefer)
 #        - Variables (all optional, sensible defaults provided):
@@ -181,6 +181,13 @@ jobs:
     if: needs.gate.outputs.should-run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 25
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -255,3 +262,15 @@ jobs:
           publish_branch: gh-pages
           keep_files: false  # we restored everything above, so a clean publish is fine
           commit_message: 'daily: report for ${{ github.run_id }}'
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload report site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./daily_reports
+
+      - name: Deploy report site
+        id: deployment
+        uses: actions/deploy-pages@v4
