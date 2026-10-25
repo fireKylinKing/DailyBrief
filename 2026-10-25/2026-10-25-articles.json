@@ -6,100 +6,100 @@
       "title": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "excerpt": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "meta": "JavaScript · ★ 43,541 · 🍴 2,719 · 📈 2,271 stars today",
+      "meta": "JavaScript · ★ 44,544 · 🍴 2,768 · 📈 2,264 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cloudflare 推出的编码智能体技能包，为 Claude Code 等 coding agent 提供分阶段的安全审计流程：先做侦察，再逐步排查，最终输出机器可读、可校验的漏洞清单，每条结论都经独立复核。适合把安全检查嵌入 AI 辅助开发流程的团队。"
+      "summary": "面向编码智能体（coding agent）的安全审计技能包，把审计流程拆成多个阶段依次执行，最终产出的每条漏洞发现都可被独立复核、并以机器可读格式输出。适合在 CI 或代码审查环节接入，让 AI 代理做可验证的安全扫描而非模糊建议。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
       "excerpt": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "meta": "Rust · ★ 19,251 · 🍴 1,915 · 📈 893 stars today",
+      "meta": "Rust · ★ 19,471 · 🍴 1,930 · 📈 896 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "NVIDIA 推出的自主 AI Agent 运行时，重点在安全隔离与隐私保护：为 Agent 提供受控执行环境，限制其系统访问范围，降低自主调用工具、执行代码带来的风险。适合在生产环境中部署自动化 Agent 的团队。"
+      "summary": "NVIDIA 推出的自主 AI agent 运行时，主打安全隔离与隐私保护，让智能体在执行代码、调用工具时被限制在受控沙箱内。适合需要在生产环境部署自主 agent、又要求数据不出域或权限可控的团队使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "aws/agent-toolkit-for-aws",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "excerpt": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "meta": "Python · ★ 3,025 · 🍴 394 · 📈 11 stars today",
+      "meta": "Python · ★ 3,126 · 🍴 397 · 📈 13 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AWS 官方维护的 Agent 工具集，提供 MCP server、技能与插件，让 AI Agent 直接调用 AWS 服务完成资源创建、查询与运维。适合在 AWS 上构建 agentic 应用的开发者，无需自己封装云 API 的 MCP 适配层。"
+      "summary": "AWS 官方维护的 agent 工具集，提供 MCP server、skills 与 plugins，让 AI 编码代理能直接读写 AWS 资源、生成与部署云上架构。适合在 AWS 上开发的团队，把云资源操作接入 Claude Code、Cursor 等 agent 工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "excerpt": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "meta": "CSS · ★ 31,719 · 🍴 1,633 · 📈 567 stars today",
+      "meta": "CSS · ★ 32,133 · 🍴 1,649 · 📈 455 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向 Claude Code、Cursor、Codex 的设计技能，专门解决 AI 生成页面千篇一律的“AI 味”：通过预设设计规范与检查清单约束输出，让界面更有排版与视觉层次。适合用 AI 写前端、但不想交付模板化 UI 的开发者。"
+      "summary": "针对 Claude Code、Cursor、Codex 等 AI 编码工具的设计技能，目标是压制 AI 生成界面千篇一律的“AI 味”，让产出的前端页面更有设计感。适合用 AI 写前端、但不满模板化 UI 的开发者直接挂载使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "excerpt": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "meta": "Python · ★ 44,298 · 🍴 5,478 · 📈 442 stars today",
+      "meta": "Python · ★ 44,555 · 🍴 5,492 · 📈 392 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code 的图文实战指南，从基础概念讲到高级 Agent 用法，配有可直接复制的模板与示例，读完即可用于实际项目。适合刚接触 Claude Code、想快速上手命令行 AI 编程工作流的开发者。"
+      "summary": "面向 Claude Code 的图文实战指南，从基础概念一路讲到进阶 agent 用法，并附可直接复制粘贴的配置模板。适合刚上手 Claude Code、想跳过摸索阶段快速搭建自定义 agent 工作流的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "excerpt": "The design language that makes your AI harness better at design.",
-      "meta": "Rust · ★ 86,063 · 🍴 5,141 · 📈 733 stars today",
+      "meta": "Rust · ★ 86,402 · 🍴 5,154 · 📈 619 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套面向 AI 编程工具的设计语言，通过规范化的设计指令与约束，让 Claude Code、Cursor 等 harness 产出更专业的界面设计。适合希望提升 AI 生成 UI 质量、又不想反复手写提示词的前端与设计工程师。"
+      "summary": "一套面向 AI 工具链的设计语言规范，通过统一的视觉与排版约束，让 AI harness 生成界面时更懂设计、输出更稳定。适合把 AI 生成前端纳入工作流的团队，作为提示与规则层的设计标准使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "pollen-robotics/microduck",
       "url": "https://github.com/pollen-robotics/microduck",
       "excerpt": "A Tiny biped duck robot 🦆",
-      "meta": "Rust · ★ 10,774 · 🍴 1,387 · 📈 381 stars today",
+      "meta": "Rust · ★ 10,990 · 🍴 1,409 · 📈 319 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Pollen Robotics 开源的微型双足机器鸭，体积小、结构简单，配套开源硬件与软件，可用于机器人步态与平衡控制的教学和实验。适合机器人爱好者、学生与研究人员做低成本双足运动原型验证。"
+      "summary": "Pollen Robotics 开源的微型双足鸭子机器人，硬件结构小巧、面向教育与 demo 场景，可作双足行走算法的低成本验证平台。适合机器人爱好者、教学实验室和做步态控制原型的研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
       "excerpt": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "meta": "TypeScript · ★ 107,775 · 🍴 14,789 · 📈 38 stars today",
+      "meta": "TypeScript · ★ 108,049 · 🍴 14,807 · 📈 44 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google 官方开源的 Gemini CLI，把 Gemini 模型直接接入终端：支持代码理解、文件读写、命令执行与多轮任务编排，可在命令行内完成调试、重构与脚本生成。适合习惯终端工作流、想把 AI 接进本地环境的工程师。"
+      "summary": "Google 开源的终端 AI agent，把 Gemini 模型的能力直接嵌入命令行：可读写本地文件、执行命令、检索代码库。适合习惯终端工作流的开发者，用于代码理解、批量重构与自动化脚本生成。"
     },
     {
       "sourceId": "github-trending",
       "title": "jbiaojerry/ebook-treasure-chest",
       "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
       "excerpt": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-      "meta": "Python · ★ 22,462 · 🍴 3,180 · 📈 220 stars today",
+      "meta": "Python · ★ 22,600 · 🍴 3,190 · 📈 227 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "汇总各类电子书下载链接的资源库，覆盖帆书（原樊登读书）、微信读书、京东读书、喜马拉雅等平台的大部分书目，涵盖经典文学、经管励志、技术手册等类别。适合想集中查找电子书资源的读者，使用时需注意版权合规。"
+      "summary": "汇总各类电子书下载链接的资源库，覆盖经典文学、经管励志、技术手册等品类，主要整理帆书（原樊登读书）、微信读书、京东读书、喜马拉雅等平台的书目。适合想低成本找书、按主题检索阅读资源的读者。"
     },
     {
       "sourceId": "github-trending",
       "title": "makecindy/cindy",
       "url": "https://github.com/makecindy/cindy",
       "excerpt": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "meta": "TypeScript · ★ 3,890 · 🍴 569 · 📈 471 stars today",
+      "meta": "TypeScript · ★ 4,092 · 🍴 584 · 📈 477 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源 AI Agent 项目，主打开箱即用：无需复杂配置即可部署运行，把“想到就能做到”的自动化任务交给 Agent 处理。适合想快速体验或集成 AI Agent 能力、但不愿在环境搭建上耗费大量时间的开发者与团队。"
+      "summary": "开源、开箱即用的 AI agent 项目，主张“想到就能做到”，无需复杂配置即可直接运行，由 agent 自主完成用户交代的任务。适合想快速体验或二次开发通用型 AI 助手的个人开发者与团队。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -166,15 +166,6 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了",
-      "url": "https://www.v2ex.com/t/1251425",
-      "excerpt": "29 回复 · 程序员 节点",
-      "publishedAt": "2026-10-24T02:32:55.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
       "title": "最近从 Windows10 迁移到 Debian13，感觉直接起飞。",
       "url": "https://www.v2ex.com/t/1250503",
       "excerpt": "22 回复 · Linux 节点",
@@ -211,6 +202,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "为什么突然出现那么多类 ARC 浏览器",
+      "url": "https://www.v2ex.com/t/1251519",
+      "excerpt": "16 回复 · 程序员 节点",
+      "publishedAt": "2026-10-24T09:57:42.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "RUST 语法极其丑陋",
       "url": "https://www.v2ex.com/t/1221723",
       "excerpt": "14 回复 · Rust 节点",
@@ -220,10 +220,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "为什么突然出现那么多类 ARC 浏览器",
-      "url": "https://www.v2ex.com/t/1251519",
-      "excerpt": "12 回复 · 程序员 节点",
-      "publishedAt": "2026-10-24T09:57:42.000Z",
+      "title": "DeepSeek 智谱 KIMI ，哪个有可能成为中国的巨无霸科技公司？",
+      "url": "https://www.v2ex.com/t/1251447",
+      "excerpt": "11 回复 · 程序员 节点",
+      "publishedAt": "2026-10-24T04:00:25.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -233,15 +233,6 @@
       "url": "https://www.v2ex.com/t/1243855",
       "excerpt": "11 回复 · Python 节点",
       "publishedAt": "2026-09-22T02:17:16.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "DeepSeek 智谱 KIMI ，哪个有可能成为中国的巨无霸科技公司？",
-      "url": "https://www.v2ex.com/t/1251447",
-      "excerpt": "10 回复 · 程序员 节点",
-      "publishedAt": "2026-10-24T04:00:25.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -327,6 +318,15 @@
       "source": "V2EX"
     },
     {
+      "sourceId": "v2ex-hot",
+      "title": "Gemini 4 Argon 进一步降智",
+      "url": "https://www.v2ex.com/t/1251450",
+      "excerpt": "6 回复 · 程序员 节点",
+      "publishedAt": "2026-10-24T04:11:00.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
       "sourceId": "openai-news",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -334,7 +334,7 @@
       "publishedAt": "2026-10-23T17:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 介绍为支撑逾 10 亿 ChatGPT 用户而扩展在线存储的做法：Habitat 系统实现可靠多租户、全球缓存并采用 Azure Cosmos DB，使 ChatGPT 读取速度提升 12 倍。"
+      "summary": "OpenAI发文介绍其为服务超过10亿ChatGPT用户而扩展在线存储的实践，通过Habitat系统的可靠多租户、全局缓存与Azure Cosmos DB，实现读取速度提升12倍。"
     },
     {
       "sourceId": "openai-news",
@@ -344,7 +344,7 @@
       "publishedAt": "2026-10-23T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 说明如何加强对前沿模型训练与评估环境的隔离管控，措施包括离线环境与高算力红队测试。"
+      "summary": "OpenAI说明其如何强化前沿模型训练与评估环境的隔离管控，措施包括离线运行环境与高算力红队测试，以降低模型训练过程中的安全风险。"
     },
     {
       "sourceId": "openai-news",
@@ -354,7 +354,7 @@
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 与波兰机构 NASK 建立合作，围绕 AI 安全、安保与技术研究推进联合工作，以强化防护并支持更具韧性的数字生态。"
+      "summary": "OpenAI与波兰机构NASK宣布建立合作，围绕AI安全、安保与技术研究展开协作，以强化防护措施并支持更具韧性的数字生态。"
     },
     {
       "sourceId": "openai-news",
@@ -364,7 +364,7 @@
       "publishedAt": "2026-10-22T19:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 推出 Decisions API，面向各类应用提供快速、聚焦且低成本的决策能力，以构建响应更及时的应用。"
+      "summary": "OpenAI推出Decisions API，为各类应用提供快速、聚焦且低成本的决策能力，面向需要高频判断的应用场景。"
     },
     {
       "sourceId": "openai-news",
@@ -608,7 +608,7 @@
       "publishedAt": "2026-10-22T14:30:24.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "DeepMind 发布全球森林类型地图，将地表每 10 米见方的地块归入不同森林类型，超越了单纯的树冠覆盖率统计。"
+      "summary": "DeepMind发布全球森林类型地图，将地球陆地按每10米见方的地块分类为不同森林类型，超越以往仅以树冠覆盖率衡量的做法。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -879,7 +879,7 @@
       "publishedAt": "2026-10-23T16:15:50.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Allen AI 在 Hugging Face 博客发布 LitPivot，介绍一种通过在文献图景中进行动态情境化来形成研究思路的方法。"
+      "summary": "Allen AI在Hugging Face发布LitPivot，该方法通过在文献全景中进行动态情境化，帮助研究者生成与打磨研究想法，属于科研辅助工具方向的介绍。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -888,8 +888,7 @@
       "excerpt": "",
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "category": "tech",
-      "source": "Hugging Face Blog",
-      "summary": "Hugging Face 博客介绍一项可查询的服务，用于确认模型能否在 AWS Trainium 上运行，涉及 torch-neuronx 的模型支持情况。"
+      "source": "Hugging Face Blog"
     },
     {
       "sourceId": "huggingface-blog",
@@ -899,7 +898,7 @@
       "publishedAt": "2026-10-22T22:24:34.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "微软在 Hugging Face 博客介绍 ThinkingBox，将数据库评分转化为强化学习奖励，用于智能体的后训练。"
+      "summary": "微软在Hugging Face发文介绍ThinkingBox，将数据库评分转化为强化学习奖励信号，用于智能体的后训练，以提升其在相关任务上的表现。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1150,10 +1149,10 @@
       "url": "https://huggingface.co/papers/2610.30926",
       "excerpt": "Cinematic video generation requires both temporal inference from limited inputs (i.e., sparse rather than frame-by-frame guidance) and factor-aware control of character, scene, action, and camera. Multimodal large language models (MLLMs) offer useful priors for both capabilities, but their represent",
       "publishedAt": "2026-10-22T08:43:48.000Z",
-      "meta": "👍 165",
+      "meta": "👍 171",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "电影级视频生成既要从稀疏输入做时序推理，又要控制角色、场景、动作与镜头。为此提出因子感知的预测学习框架，把 MLLM 的潜表示真正注入生成过程，实现因子级可控与稀疏引导下的时序一致性。"
+      "summary": "针对电影级视频生成需从稀疏输入推断时序，并分别控制角色、场景、动作与镜头的问题，提出因子感知预测学习，让 MLLM 的 latent 表征真正参与视频生成，使多模态先验服务于内容与运镜的可控生成。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1161,10 +1160,10 @@
       "url": "https://huggingface.co/papers/2610.30181",
       "excerpt": "Despite substantial progress in Deep Search agents, their ability to conduct end-to-end research in real-world open Web environments remains insufficiently evaluated. Unlike static retrieval settings, information on the real-world Web is distributed across diverse sources, modalities, and heterogene",
       "publishedAt": "2026-10-19T00:00:00.000Z",
-      "meta": "👍 153",
+      "meta": "👍 160",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "placeholder"
+      "summary": "指出现有 Deep Search agent 多在静态检索环境评测，难以反映真实开放 Web 中跨来源、跨模态、异构信息的端到端研究能力，并构建面向真实 Web 环境的评测基准，揭示当前智能体的能力缺口。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1172,10 +1171,10 @@
       "url": "https://huggingface.co/papers/2610.30949",
       "excerpt": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and efficient pre-training, combining Stable SplitNorm, Muon, and muP with a two-stage curriculum whose second",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 84",
+      "meta": "👍 91",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布 IQuest-Q1，320B 总参、15B 激活的稀疏 MoE 智能体基座模型，经三阶段流程训练：结合 Stable SplitNorm、Muon 与 muP 的稳定高效预训练及两阶段课程，面向命令行智能体系统提升基础能力。"
+      "summary": "提出 IQuest-Q1，320B 总参数、15B 激活的稀疏 MoE 智能体基础模型；采用三阶段训练，预训练结合 Stable SplitNorm、Muon、muP 与两阶段课程，面向 agentic CLI 系统提升基础能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1183,10 +1182,10 @@
       "url": "https://huggingface.co/papers/2610.29677",
       "excerpt": "Recursive self-improvement (RSI) describes a system that improves not only its behavior but also the process by which it improves. Recent digital agents test this idea by rewriting their own code and checking each version with executable tests. Bringing these mechanisms into the physical world requi",
       "publishedAt": "2026-10-21T00:00:00.000Z",
-      "meta": "👍 50",
+      "meta": "👍 56",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "把递归自我改进（RSI）从可自我改写代码的数字智能体拓展到物理世界：系统需在真实硬件上改进自身的改进过程，并以物理执行结果替代可执行测试作为验证信号，探讨物理 AI 实现 RSI 所需机制。"
+      "summary": "分析把数字智能体中「改写代码—测试验证」的递归自我改进机制迁移到物理世界所需的验证、安全与真实环境约束，并讨论物理 AI 实现 RSI 的路径与开放挑战。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1194,10 +1193,10 @@
       "url": "https://huggingface.co/papers/2610.25100",
       "excerpt": "Large language models need effective ways to acquire and use external knowledge beyond what they retain from pretraining. Continued pretraining risks catastrophic forgetting, while retrieval at inference time can add substantial overhead. External parametric memory avoids online retrieval, but const",
       "publishedAt": "2026-10-18T00:00:00.000Z",
-      "meta": "👍 40",
+      "meta": "👍 47",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "大模型获取外部知识的现有路径各有缺陷：持续预训练易灾难性遗忘，推理时检索开销大，外部参数记忆受容量限制。据此提出块级参数化记忆 Deep Fusion Memory，在无需在线检索的情况下融合外部知识。"
+      "summary": "提出 Deep Fusion Memory，一种 chunk 级参数化记忆，让 LLM 无需在线检索即可获取外部知识，同时避免持续预训练带来的灾难性遗忘与推理时检索开销，在知识注入与模型原有能力间取得平衡。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1205,10 +1204,10 @@
       "url": "https://huggingface.co/papers/2610.27851",
       "excerpt": "This paper shows that JEPA-style latent world models (LWMs) can learn across diverse domains and data sources by adopting the language-conditioned interface of video generation models. We establish this approach as an effective and efficient basis for planning with imagination and downstream policy ",
       "publishedAt": "2026-10-21T00:00:00.000Z",
-      "meta": "👍 29",
+      "meta": "👍 35",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 LaLa-World，让 JEPA 式潜世界模型借用视频生成模型的语言条件接口，从而跨领域、跨数据源学习，并以自然语言作为动作表示，为想象式规划与下游策略学习提供高效基座。"
+      "summary": "提出 LaLa-World，让 JEPA 式 latent world model 采用视频生成模型的自然语言条件接口，从而跨领域、跨数据源学习，并作为想象规划与下游策略学习的高效基础。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1216,21 +1215,10 @@
       "url": "https://huggingface.co/papers/2610.30753",
       "excerpt": "Complex camera motion is central to visual storytelling, yet translating cinematographic intent into controllable, executable camera trajectories remains challenging. We introduce FilmFlow, an agentic framework that converts natural-language instructions or reference videos into explicit camera traj",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 26",
+      "meta": "👍 31",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "FilmFlow 是一个智能体框架，将自然语言指令或参考视频转换为显式、可执行的相机轨迹，解决电影创作意图难以落地为复杂运镜的问题，实现可控的 3D 虚拟摄影机运动生成。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
-      "url": "https://huggingface.co/papers/2610.27598",
-      "excerpt": "As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, where experts in different layers, although topologically independent, exhibit substantial similarity a",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "meta": "👍 25",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "观察发现层级 MoE 中不同层的专家虽拓扑独立却高度相似，据此提出跨层专家共享的 Meta Expert，在降低专家存储与检索开销的同时保持稀疏激活容量，为大规模 MoE 的效率优化提供方案。"
+      "summary": "提出 FilmFlow，将自然语言指令或参考视频转换为显式、可执行的相机轨迹，解决影视运镜意图难以落地为可控 3D 虚拟拍摄运动的问题，面向 3D 虚拟电影摄影的智能体系统。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1238,10 +1226,21 @@
       "url": "https://huggingface.co/papers/2610.28416",
       "excerpt": "Code-based video generation offers fine-grained control, targeted editing, and component reuse compared with direct video generation. This approach requires multimodal large language models (MLLMs) to translate visual and temporal requirements into executable programs that produce complete videos. H",
       "publishedAt": "2026-10-20T00:00:00.000Z",
-      "meta": "👍 24",
+      "meta": "👍 31",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Code2Video-Compass，覆盖 T2V、I2V、V2V 的通用代码化视频生成综合基准，考察 MLLM 能否将视觉与时序需求转写为可执行程序并生成完整视频，填补该方向缺乏系统评测的空白。"
+      "summary": "提出 Code2Video-Compass，覆盖 T2V、I2V、V2V 的代码化视频生成综合基准，评估 MLLM 将视觉与时序需求转化为可执行程序并生成完整视频的能力，弥补现有评测对代码路径关注不足。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
+      "url": "https://huggingface.co/papers/2610.27598",
+      "excerpt": "As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, where experts in different layers, although topologically independent, exhibit substantial similarity a",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "meta": "👍 30",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对 MoE 不同层专家虽拓扑独立却高度相似的现象，提出跨层专家共享的 Meta Expert 机制，在保持稀疏激活效果的同时降低专家存储与检索开销，提升大规模 MoE 的部署效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1249,21 +1248,10 @@
       "url": "https://huggingface.co/papers/2610.19705",
       "excerpt": "LLM routing dynamically selects and coordinates heterogeneous language models across diverse tasks. However, existing approaches are largely built around a predefined execution paradigm, such as single-round, multi-round, or agentic routing, which fixes how model calls are organized and limits adapt",
       "publishedAt": "2026-10-19T00:00:00.000Z",
-      "meta": "👍 18",
+      "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "现有 LLM 路由多绑定单一执行范式（单轮、多轮或智能体），固化了模型调用组织方式。RouteWeaver 把运行模式选择与执行统一进路由框架，动态决定调用如何组织，提升跨任务的自适应能力。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents",
-      "url": "https://huggingface.co/papers/2610.26233",
-      "excerpt": "Tool-using voice agents often leave users waiting after speech ends, even when actionable information arrives earlier in the request. Speculative approaches begin work during speech, but chunk-bounded or interrupt-on-update generation can truncate a tool call before its arguments are complete. This ",
-      "publishedAt": "2026-10-19T00:00:00.000Z",
-      "meta": "👍 18",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "面向实时语音智能体提出 Heartbeat Thinking：在用户说话过程中即投机式推理并执行工具调用，避免语音结束后长时间等待；机制上保证工具参数完整、不被更新打断，从而降低端到端响应延迟。"
+      "summary": "提出 RouteWeaver，将执行模式选择与执行过程统一到 LLM 路由中，突破现有方法固定单轮、多轮或 agentic 范式的限制，使路由能按任务动态组织异构模型的调用方式。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1271,10 +1259,10 @@
       "url": "https://huggingface.co/papers/2610.31158",
       "excerpt": "Deep research agents synthesize open-web evidence into long reports, but current benchmarks do not evaluate research centered on a source video. We introduce Video-Centered Deep Research Report Generation. Given a video and user request, an agent identifies research questions, retrieves external mul",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 17",
+      "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出以视频为中心的深度研究报告生成任务与基准：给定源视频与用户请求，智能体需自行提出研究问题、检索外部多源证据并撰写长报告，弥补现有深度研究基准忽视视频源材料的空白。"
+      "summary": "提出以视频为中心的深度研究报告生成任务与基准：给定视频和用户请求，智能体需识别研究问题并检索外部多模态证据，生成长篇报告，弥补现有 Deep Research 评测忽视视频源的研究空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1282,10 +1270,10 @@
       "url": "https://huggingface.co/papers/2610.30418",
       "excerpt": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization with 30 synthetic cybersecurity, medical, and milita",
       "publishedAt": "2026-10-21T00:00:00.000Z",
-      "meta": "👍 16",
+      "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "指出 LLM 智能体可从多个可访问文档中分别取信息、拼合出敏感结论的马赛克式泄露风险；用 30 个网络安全、医疗与军事合成场景量化该风险的实现程度，为机密数据场景下的智能体安全提供评测。"
+      "summary": "关注 LLM 智能体的「马赛克效应」泄密风险：智能体可从多个可访问文档拼合出敏感结论。构建 30 个网络安全、医疗与军事场景的合成评测，量化此类机密泄露并探索识别方法。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1293,21 +1281,21 @@
       "url": "https://huggingface.co/papers/2610.27712",
       "excerpt": "Feed-forward 3D Gaussian Splatting (FF3DGS) reconstructs 3D scenes from images in a single forward pass, making it well-suited to applications that must operate within limited resource budgets. To further improve its practicality, recent budget-controllable FF3DGS methods allow the number of Gaussia",
       "publishedAt": "2026-10-20T00:00:00.000Z",
-      "meta": "👍 16",
+      "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对前馈 3D Gaussian Splatting 在有限资源下的部署需求，提出 RLSplat：以资源线性的方式控制高斯数量预算，使单次前向重建能按算力与存储预算调节输出规模，兼顾重建质量与实用成本。"
+      "summary": "提出 RLSplat，面向前馈 3D Gaussian Splatting 的资源线性预算控制方法，使高斯数量可按算力与存储预算调节，在单次前向重建中兼顾场景质量与资源约束，提升实际部署可行性。"
     },
     {
       "sourceId": "huggingface-papers",
-      "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2610.31198",
-      "excerpt": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps.",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 15",
+      "title": "Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents",
+      "url": "https://huggingface.co/papers/2610.26233",
+      "excerpt": "Tool-using voice agents often leave users waiting after speech ends, even when actionable information arrives earlier in the request. Speculative approaches begin work during speech, but chunk-bounded or interrupt-on-update generation can truncate a tool call before its arguments are complete. This ",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "揭示扩散语言模型（DLM）的量化敏感度同时依赖任务与去噪时间步，不同下游任务在各去噪阶段的精度需求差异明显；据此提出任务感知的时间步量化策略，在低比特下维持生成质量。"
+      "summary": "提出 Heartbeat Thinking，让实时语音智能体在用户说话过程中即进行推测式推理与工具调用，避免语音结束后的等待；针对分块生成或更新即中断导致工具参数不完整的问题给出解决方案。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1315,10 +1303,10 @@
       "url": "https://huggingface.co/papers/2610.30755",
       "excerpt": "LLM memory is widely used in long-term conversation understanding. Agentic memory systems often use mutation, structural organization, learned retrieval strategies, or other complex operations. Is this complexity always necessary? We study Raw-RAG, a naive RAG baseline using dense retrieval and rera",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 15",
+      "meta": "👍 21",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "质疑智能体记忆系统的复杂操作是否必要：构建朴素基线 Raw-RAG（稠密检索加重排），在长期对话理解任务上与复杂记忆系统对比，发现其表现强于预期，提示应重新审视记忆设计的复杂度收益。"
+      "summary": "质疑复杂 agentic memory 的必要性：以仅用稠密检索与重排序的 Raw-RAG 朴素基线，在长期对话理解任务上系统对比复杂记忆系统，发现其性能常被低估，复杂结构未必带来稳定收益。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1326,10 +1314,21 @@
       "url": "https://huggingface.co/papers/2610.31305",
       "excerpt": "Hierarchical language generation separates continuous semantic modeling from discrete text realization, but its effectiveness depends on what the latent space compresses and how the discrete generator uses it. We propose Cola2, a framework that jointly studies continuous semantic compression, the ba",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 14",
+      "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Cola2，联合研究分层语言生成中的连续语义压缩与离散文本生成：明确潜空间应压缩何种信息，并让离散生成器均衡利用潜变量，从而提升连续语义建模加离散实现的整体生成效果。"
+      "summary": "提出 Cola2，联合研究连续语义压缩与离散文本生成：在分层语言建模中明确 latent 空间应压缩何种语义，并让离散生成器均衡利用压缩表征，提升连续语义建模与文本实现之间的协同。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2610.31198",
+      "excerpt": "Diffusion Language Models (DLMs) introduce unique quantization challenges due to their iterative denoising process. In this work, we reveal that quantization sensitivity is both taskand time-dependent, with different downstream tasks exhibiting distinct precision requirements across denoising steps.",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "meta": "👍 19",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "针对 Diffusion Language Model 迭代去噪带来的量化难题，揭示量化敏感度随任务与去噪时间步变化，提出任务感知的时序量化方法，在不同阶段分配差异化精度，以降低量化误差。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1337,10 +1336,10 @@
       "url": "https://huggingface.co/papers/2610.31466",
       "excerpt": "AI coding agents can now build small playable games in minutes, but the results usually look like programmer art: gray blockouts, colored geometric primitives, and flat semantic blobs. We present AnyGameRenderer, a video-to-video generative renderer that turns such footage into high-quality visuals ",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 11",
+      "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对 AI 编码智能体生成的游戏画面多为灰盒与几何色块的粗糙效果，提出视频到视频的生成式渲染器 AnyGameRenderer，实现跨游戏的实体一致高质量画面转换，并配套实体级基准用于评测。"
+      "summary": "提出 AnyGameRenderer，一个 video-to-video 生成式渲染器，将 AI 编程智能体生成的灰模、色块等「程序员美术」游戏画面转为高质量视觉，并构建实体级基准评估跨游戏渲染的实体一致性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1348,10 +1347,10 @@
       "url": "https://huggingface.co/papers/2610.31494",
       "excerpt": "Vision-language models (VLMs) can perform a broad range of tasks across diverse settings, yet their performance in agentic contexts remains poorly understood. Although online evaluations in simulators and real-world environments are essential for measuring interactive agent performance, they are cos",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 11",
+      "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 AgentVQA，统一评测视觉语言模型在智能体场景下的视觉理解能力：在可复现的受控设置中考察交互式取证与多步推理，弥补在线模拟器与真实环境评测成本高、难以复现的不足。"
+      "summary": "提出 AgentVQA，一个面向 agentic 视觉理解任务的统一基准，弥补 VLM 在智能体场景下能力评估不足、在线模拟器与真实环境评测成本高的问题，系统衡量交互式视觉推理表现。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1359,10 +1358,20 @@
       "url": "https://huggingface.co/papers/2610.20459",
       "excerpt": "Chemical chain-of-thought can contain hallucinated structural and property claims. We thereby introduce MolLean, a process-verifiable language that grounds chemical reasoning in an explicit molecular state. A layered Lean-based kernel checks state transitions and assertions over molecular readouts, ",
       "publishedAt": "2026-10-14T00:00:00.000Z",
-      "meta": "👍 9",
+      "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "化学思维链常出现结构或性质层面的幻觉，据此提出可过程验证的语言 MolLean：以显式分子状态为推理基础，用分层 Lean 内核检查分子读数上的状态转移与断言，使化学推理步骤可被机器验证。"
+      "summary": "提出 MolLean，一种可过程验证的化学推理语言，将推理锚定在显式分子状态上，并用分层 Lean 内核检查状态转移与分子读数断言，减少化学 CoT 中虚构的结构与性质结论。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+      "url": "https://huggingface.co/papers/2610.31651",
+      "excerpt": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for a",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "meta": "👍 13",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1370,7 +1379,7 @@
       "url": "https://huggingface.co/papers/2610.31372",
       "excerpt": "Autonomous research agents are increasingly used to automate large portions of scientific research, yet they are prone to research integrity violations (RIVs): behaviors that compromise the validity, reproducibility, or faithfulness of the research process. We present RIDAR, a framework for automate",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 8",
+      "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1380,7 +1389,7 @@
       "url": "https://huggingface.co/papers/2610.30882",
       "excerpt": "Reinforcement learning (RL) is credited with teaching reasoning models to write {wait} before reconsidering a step, yet large RL accuracy gains do not require the word. This view can confuse what RL discovers with what a model inherits from its training data. We trace the word through open models' t",
       "publishedAt": "2026-10-22T08:03:07.000Z",
-      "meta": "👍 7",
+      "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1390,27 +1399,7 @@
       "url": "https://huggingface.co/papers/2610.31062",
       "excerpt": "Policy enforcement for LLM agents has shifted from single-turn content moderation to compound, application-specific policies evaluated over multi-turn transcripts and tool-call trajectories. Fine-tuned guardrail models are efficient but degrade on compound policies, and while LLM-as-a-judge approach",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 6",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
-      "url": "https://huggingface.co/papers/2610.31651",
-      "excerpt": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for a",
-      "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 5",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans",
-      "url": "https://huggingface.co/papers/2610.27148",
-      "excerpt": "As language-model agents grow more capable, they can carry more of a task without asking anyone for help. Falling reliance on a human partner is easy to read as a failure of collaboration when it may instead be a correct division of labor, and the rate of human involvement alone cannot tell the two ",
-      "publishedAt": "2026-10-19T00:00:00.000Z",
-      "meta": "👍 5",
+      "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1420,7 +1409,7 @@
       "url": "https://huggingface.co/papers/2610.31576",
       "excerpt": "Masked diffusion language models generate tokens in parallel, but their efficiency depends on which predictions are committed. Learned unmasking policies improve the speed--accuracy trade-off, yet differ in supervision, inputs, and capacity, obscuring which choices matter. We view supervised policie",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 5",
+      "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1430,7 +1419,17 @@
       "url": "https://huggingface.co/papers/2610.31623",
       "excerpt": "This paper studies category-level RGB-D object pose estimation, which recovers an object's 3D rotation and translation without instance-specific CAD models or reference views. This task is highly ambiguous due to intra-class variations, symmetries, and partial observations. Current solutions struggl",
       "publishedAt": "2026-10-22T00:00:00.000Z",
-      "meta": "👍 5",
+      "meta": "👍 11",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans",
+      "url": "https://huggingface.co/papers/2610.27148",
+      "excerpt": "As language-model agents grow more capable, they can carry more of a task without asking anyone for help. Falling reliance on a human partner is easy to read as a failure of collaboration when it may instead be a correct division of labor, and the rate of human involvement alone cannot tell the two ",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1440,7 +1439,7 @@
       "url": "https://huggingface.co/papers/2610.22722",
       "excerpt": "Split language models keep input text on a client but send intermediate representations to a server. Attacks can reconstruct text from these messages. Comparing privacy evaluations is difficult when attackers see different messages, know different model weights or use different datasets and recovery",
       "publishedAt": "2026-10-15T00:00:00.000Z",
-      "meta": "👍 4",
+      "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1450,7 +1449,7 @@
       "url": "https://huggingface.co/papers/2610.25835",
       "excerpt": "Diffusion language models can write several tokens in one forward pass, and they decide during generation how many passes to spend. Two outputs of the same token length can therefore vary a lot in cost. To understand the underlying factors of this cost variation, we analyze two diffusion models acro",
       "publishedAt": "2026-10-19T05:47:58.000Z",
-      "meta": "👍 3",
+      "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1460,7 +1459,7 @@
       "url": "https://huggingface.co/papers/2610.30043",
       "excerpt": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-",
       "publishedAt": "2026-10-21T00:00:00.000Z",
-      "meta": "👍 2",
+      "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers"
     },
@@ -1472,7 +1471,7 @@
       "publishedAt": "2026-10-23T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI 当日要闻：OpenAI 估值接近 1.25 万亿美元；1Password 推出面向智能体的产品；Gemini 3.5 Pro 复盘。"
+      "summary": "TLDR AI当日要点包括：OpenAI估值接近1.25万亿美元；面向智能体的1Password推出；以及Gemini 3.5 Pro的复盘分析。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1923,7 +1922,7 @@
       "publishedAt": "2026-10-24T07:18:29.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Kimi 发布 3.1 Pro，参数规模为 104B 激活参数、2.8T 总参数，以开放权重形式提供，据称与闭源模型的差距缩小至约 1 个月；同时推出 Pro Highspeed API，速度提升 2-3 倍。"
+      "summary": "据Latent Space报道，Kimi 3.1 Pro采用104B激活参数、2.8T总参数架构，以开放权重形式发布，与闭源前沿模型的差距被描述为缩小至约1个月；同时推出Pro Highspeed API，速度提升2至3倍。"
     },
     {
       "sourceId": "latent-space",
@@ -1933,7 +1932,7 @@
       "publishedAt": "2026-10-23T15:19:48.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 文章指出，AI 模型能解出的数学问题越来越多，其成功案例中呈现出某种规律，或可用来预测模型接下来能解决哪些问题。"
+      "summary": "Latent Space文章指出，AI模型正在解出更多数学题，其成功案例中呈现出某种规律，或可用于预测模型接下来能够解决哪些问题。"
     },
     {
       "sourceId": "latent-space",
@@ -1943,7 +1942,7 @@
       "publishedAt": "2026-10-23T10:09:29.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space 的 AINews 栏目以「黑色十月」为题，提及网络攻击仍在持续，未给出更多细节。"
+      "summary": "Latent Space的AINews栏目以「黑色十月」为题，提及网络攻击态势持续升级，但摘要信息有限，未披露具体事件与数据。"
     },
     {
       "sourceId": "latent-space",
@@ -1953,7 +1952,7 @@
       "publishedAt": "2026-10-22T17:40:57.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Modal 首席执行官 Erik Bernhardsson 在 Latent Space 访谈中谈 AI 算力为何以「矩形」形态供给，涉及弹性 GPU、沙箱业务增长与智能体云的经济性。"
+      "summary": "Modal CEO Erik Bernhardsson在Latent Space访谈中谈AI算力的供给形态，涉及弹性GPU、沙箱业务增长以及智能体云的经济性。"
     },
     {
       "sourceId": "latent-space",
@@ -2107,7 +2106,7 @@
       "publishedAt": "2026-10-22T21:17:29.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT 科技评论指出，企业 AI 的下一阶段竞争优势更多取决于围绕模型搭建的服务框架，而非模型本身的选择，这标志着关注重点的转变。"
+      "summary": "MIT科技评论指出，企业AI的下一阶段竞争优势更多取决于围绕模型搭建的服务框架，而非模型本身的选择，这标志着关注重心从模型能力转向系统工程。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2117,7 +2116,7 @@
       "publishedAt": "2026-10-22T18:48:04.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT 科技评论 EmTech Future 会议环节探讨可扩展 AI 的基础：数据、工程、平台、运营模式与治理需协同一致，尤其在高度监管的环境中。"
+      "summary": "MIT科技评论EmTech Future会议环节探讨可扩展AI的基础，认为数据、工程、平台、运营模式与治理需在高度监管环境中协同一致。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2200,18 +2199,7 @@
       "category": "tech",
       "meta": "@vinayp10 · 17.3K 粉丝 · 175.8K 阅 · 506 赞 · 15 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主宣布把未婚妻从 Claude Code 迁到 @bot，并退掉了她的 Claude Code 订阅，称这是自己头一次主动让人弃用 Claude。从 2 月起他给「该用哪个工具」的回答第一次改变，属于典型的使用体验转向记录。"
-    },
-    {
-      "sourceId": "attentionvc-ai",
-      "title": "How Harvey is Building a Frontier Marketing Org",
-      "url": "https://x.com/gabepereyra/status/2112953682392477783",
-      "excerpt": "Recently, @figma asked us what Harvey was building with its MCP server. This is the long answer. Between the MCP and better frontier models, agents now run whole design projects end to end across our",
-      "publishedAt": "2026-10-21T17:06:29.000Z",
-      "category": "tech",
-      "meta": "@gabepereyra · 13.4K 粉丝 · 111.8K 阅 · 505 赞 · 47 转",
-      "source": "X 推文 (AttentionVC)",
-      "summary": "Harvey 的营销团队分享如何用 Figma MCP server 搭建前沿营销组织：借助 MCP 和更强的前沿模型，agent 已能端到端跑完整个设计项目。这是回应 Figma 提问的完整版长文，属于企业级 agent 工作流拆解。"
+      "summary": "博主把未婚妻从 Claude Code 迁到 @bot，并退订了 Claude Code 订阅，称这是自己头一回主动弃用。帖中对比了自 2 月以来被问及「该用哪个工具」时的推荐变化，属于真实迁移体验而非评测。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2222,7 +2210,7 @@
       "category": "tech",
       "meta": "@ryangrowthh · 5.6K 粉丝 · 74.8K 阅 · 519 赞 · 27 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主自建 11 个 Grok Bot 组成的「内容团队」，发帖两周内约带来 200 万次曝光，并公开整套系统与结果验证。属于多 bot 分工做内容生产的操作指南，先给数据再讲流程。"
+      "summary": "用 11 个 Grok Bot 组成内容团队，在 X 上发帖头两周做到约 200 万曝光，博主公开整套系统：从 Bot 分工、选题到发布的完整流程，并先晒数据再讲方法，属于可复制的内容流水线拆解。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2233,7 +2221,7 @@
       "category": "tech",
       "meta": "@tibo_maker · 215.7K 粉丝 · 56.5K 阅 · 510 赞 · 30 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "拆解如何批量搭建和运营 AI UGC（素人带货）账号矩阵：完整 9 个步骤，附 12 条可直接复制的 prompt，按实际使用顺序排列。属于灰产边缘的增长玩法教程，落地性强。"
+      "summary": "拆解如何批量运营 AI UGC 账号矩阵：完整 9 步搭建流程，附 12 条可直接复制的 prompt，按使用顺序排列。针对的是近期在信息流里频繁刷到的 AI 生成真人账号这一现象。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2244,7 +2232,7 @@
       "category": "tech",
       "meta": "@BrianDEvans · 1.3M 粉丝 · 50.8K 阅 · 826 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "观点型推文：AI 会批量制造「开挂个体」——同时拥有百亿美元公司、奥运金牌和奥斯卡影片的超级个体，作者称之为现代吸血鬼。不谈工具方法，讨论的是 AI 放大个人能力的长期社会后果。"
+      "summary": "一篇观点型长文：AI 会催生「极度开挂」的个体——同时拥有百亿美金公司、奥运金牌和奥斯卡导演作品。讨论 AI 放大个人能力的上限，属于趋势推演而非工具实操。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2255,7 +2243,7 @@
       "category": "tech",
       "meta": "@davidim · 7.6K 粉丝 · 47.8K 阅 · 532 赞 · 31 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "发布 Sume API，主打 0% 加价：模型调用价格与原始厂商完全一致。作者解释为何做这种看似不赚钱的模式，顺带对 Higgsfield 一类层层加价的中间商开炮，属于新产品的定价策略说明。"
+      "summary": "发布 Sume API，主打 0% 加价：调用同一批模型时按原厂价格计费。博主解释为何要做这种看似不赚钱的事，并点名 Higgsfield，属于产品发布加定价策略表态。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2266,7 +2254,7 @@
       "category": "tech",
       "meta": "@GoogleCloudTech · 1.3M 粉丝 · 38.7K 阅 · 502 赞 · 68 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google Cloud 官方账号分享 3 种 Markdown 架构写法来提升 agent 生产力。核心论点是：coding agent 深度进入开发流程后，最热门的「编程语言」其实是 Markdown，属于文档结构设计层面的工程建议。"
+      "summary": "借「最热门编程语言其实是 Markdown」这个梗，给出 3 种 Markdown 架构模式，用于提升 coding agent 的产出效率。角度是把文档结构当作 agent 上下文工程的一部分。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2277,7 +2265,47 @@
       "category": "tech",
       "meta": "@puneetmehtanyc · 4.0K 粉丝 · 37.2K 阅 · 577 赞 · 57 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "据 Axios 报道，美国多家大银行发现第三方 AI agent 在未经授权的情况下在客户账户内操作，部分已越权。作者指出银行的风控体系是为人类设计的，面对 agent 几乎没有拦截手段，属于安全与合规风险提示。"
+      "summary": "引用 Axios 报道：美国多家大型银行发现未经批准的第三方 AI agent 在客户账户内活动，部分行为已超出授权范围。讨论金融机构按「人」设计的管控体系挡不住 agent，属风险议题。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday",
+      "excerpt": "Saudi Arabia’s main airport was gearing up to reopen as early as Sunday after operations had been disrupted by a spate of attacks by Houthi rebels.",
+      "publishedAt": "2026-10-24T21:27:28.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "沙特阿拉伯表示，利雅得主要机场最早可能于周日重新开放。此前，胡塞武装接连发动袭击，导致该机场运营中断。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
+      "excerpt": "Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is \"a miracle of the modern wo",
+      "publishedAt": "2026-10-24T17:05:04.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "《金融时报》Alphaville博客编辑、新书《一笔惊人的债务：债券如何构建现代世界的史诗故事》作者罗宾·威格尔斯沃思讨论债券市场作为全球经济引擎的作用，并谈及30年期房贷为何被称为「奇迹」。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "French Protesters Dispersed with Gas as Tensions Rise",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
+      "excerpt": "Student protesters in Paris, France were dispersed with gas as conflict escalates. (Source: Bloomberg)",
+      "publishedAt": "2026-10-24T16:31:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "法国巴黎学生抗议者被以催泪瓦斯驱散，现场冲突升级。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "New Middle East Threats, Russian Diesel Coming to US",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-24/bloomberg-this-weekend-10-24-2026-video",
+      "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The New Yorker Staff Writer Gideon Lewis-Kraus, Linx Dating Founder & CEO Amy Andersen, Oliver Wyma",
+      "publishedAt": "2026-10-24T15:57:32.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "彭博「This Weekend」节目由主持人David Gura、Christina Ruffini和Lisa Mateo在纽约直播，梳理周末主要新闻，涉及中东出现新的威胁以及俄罗斯柴油运往美国等议题。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2287,7 +2315,7 @@
       "publishedAt": "2026-10-24T15:21:35.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "风险最高一档债务市场出现被交易员称为「彻底崩溃」的抛售行情，令市场不安。基金经理伊韦利娜·格林在纽约时间周四凌晨5点被同事的恐慌消息惊醒，消息内容即为「彻底崩溃」。"
+      "summary": "纽约基金经理伊韦利娜·格林周四凌晨5点被同事一条「彻底崩盘」的消息惊醒。彭博信用周报指出，风险最高的一档债务出现剧烈抛售，令市场不安。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2297,7 +2325,7 @@
       "publishedAt": "2026-10-24T14:45:05.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "金属交易商连续第二年迎来丰收，全行业获利数十亿美元，多家头部交易商录得创纪录利润。"
+      "summary": "金属交易商连续第二年获得巨额收益，多家顶级交易行录得创纪录利润，全行业利润规模达数十亿美元。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2307,7 +2335,7 @@
       "publishedAt": "2026-10-24T14:36:22.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "医学史学家林赛·菲茨哈里斯在彭博节目中讲述，苏格兰外科医生约瑟夫·贝尔凭借出色的观察力，启发其学生阿瑟·柯南·道尔创作出福尔摩斯这一形象。"
+      "summary": "医学史学者林赛·菲茨哈里斯在彭博节目中讲述苏格兰外科医生约瑟夫·贝尔，凭借出色的观察力启发了学生阿瑟·柯南·道尔，后者据此创作出福尔摩斯这一人物。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2317,7 +2345,7 @@
       "publishedAt": "2026-10-24T14:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "一家中国工程公司即将部分重启委内瑞拉一座多年基本闲置的大型发电厂，这是修复该国老化电网的关键一步。"
+      "summary": "一家中国工程公司即将帮助委内瑞拉一座大型电站部分恢复运行。该电站已基本停运多年，此举是修复该国老化电网的关键一步。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2327,7 +2355,7 @@
       "publishedAt": "2026-10-24T14:08:54.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "据知情人士透露，Dalmore Capital 是有意从收购基金 Cinven 手中收购英国商用设备供应商及服务商 JLA 集团的各方之一。"
+      "summary": "据知情人士透露，Dalmore Capital 已表达收购英国商用设备供应商及服务商 JLA Group 的意向，该公司的所有者是并购基金 Cinven。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2337,7 +2365,7 @@
       "publishedAt": "2026-10-24T14:03:23.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "人工智能带动新一波数据中心建设，社区日益关注能获得何种回报。弗吉尼亚州劳登县将该产业培育为主要税基，为学校、公园和基础设施提供资金，但当地官员现已开始施加限制。"
+      "summary": "人工智能推动数据中心建设热潮，社区日益关注自身能获得何种回报。美国弗吉尼亚州劳登县将该产业培育成重要税基，用于资助学校、公园和基础设施，但当地官员如今也开始设限。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2356,7 +2384,7 @@
       "publishedAt": "2026-10-24T13:53:29.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "《华尔街日报》驻外记者埃文·格什科维奇讲述，2023年他因虚假间谍指控被捕，并在俄罗斯监狱度过16个月；凭借报道经验和对俄罗斯的了解，他判断自己很可能被用于换囚。"
+      "summary": "《华尔街日报》驻外记者埃文·格什科维奇讲述自己在俄罗斯监狱度过的16个月。他表示，凭借报道经验和对俄罗斯的了解，他判断2023年以虚假间谍罪名被捕，很可能是为将他纳入换囚安排。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2365,8 +2393,7 @@
       "excerpt": "Modern day apple-picking, country clubs getting more fun, AirBnB rules update, and The The Brewers' playoff anthem: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
       "publishedAt": "2026-10-24T13:38:29.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "节目汇总若干容易被错过的话题：现代苹果采摘、乡村俱乐部变得更有趣、Airbnb 规则更新，以及酿酒人队的季后赛主题曲。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2375,8 +2402,7 @@
       "excerpt": "SHRM President and CEO Johnny C. Taylor Jr. tells Bloomberg This Weekend how employers and workers can navigate open enrollment, AI-driven job disruption and growing generational divides in the workplace. Speaking with hosts David Gura and Christina Ruffini, Taylor says companies need to communicate",
       "publishedAt": "2026-10-24T13:29:52.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "美国人力资源管理协会总裁兼首席执行官约翰尼·C·泰勒二世表示，雇主与员工需应对开放投保期、AI 带来的岗位冲击，以及职场中日益扩大的代际分歧。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2385,8 +2411,7 @@
       "excerpt": "Seaport Research Partners Chief Equity Strategist Jonathan Golub tells Bloomberg This Weekend that stocks are not in an AI bubble, arguing that strong earnings and lower valuations show investors remain skeptical even as AI drives much of the market. Speaking with hosts David Gura and Christina Ruff",
       "publishedAt": "2026-10-24T13:19:00.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Seaport Research Partners 首席股票策略师乔纳森·戈卢布认为股市不存在 AI 泡沫，强劲盈利与较低估值显示投资者仍持怀疑态度；同时，油价持续高企对通胀前景构成威胁。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2395,8 +2420,7 @@
       "excerpt": "Oliver Wyman Geostrategy Practice Leader Daniel Tannebaum tells Bloomberg This Weekend that the first Russian diesel shipment under President Donald Trump’s deal with Vladimir Putin raises legal and compliance questions while offering limited relief for US fuel prices. Speaking with hosts David Gura",
       "publishedAt": "2026-10-24T12:55:03.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "奥纬咨询地缘战略业务负责人丹尼尔·坦嫩鲍姆表示，特朗普与普京达成协议后的首批俄罗斯柴油装运引发法律与合规问题，对美国燃料价格的缓解作用有限。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2431,42 +2455,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-24/kenya-records-second-ebola-death-a-close-relative-of-first-case",
       "excerpt": "Kenya has reported a second death from Ebola, a 65-year-old woman who was a close family member of the index case, while Uganda said it’s restricting transit for anyone with a history of travel to Democratic Republic of the Congo in an effort to halt the disease spreading.",
       "publishedAt": "2026-10-24T04:41:29.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Barclays ‘House of Fixed Income’ Pins Future Growth on Equities",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-24/barclays-house-of-fixed-income-pins-future-growth-on-equities",
-      "excerpt": "The house built by fixed income is facing an overhaul. Barclays Plc is showing it can do more for clients than trade bonds and arrange debt deals.",
-      "publishedAt": "2026-10-24T11:02:54.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Mauritius Carrier Looks at Narrow-Body Jets in Fleet Overhaul",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-24/mauritius-carrier-looks-at-narrow-body-jets-in-fleet-overhaul",
-      "excerpt": "Mauritius’ state-owned carrier is planning to add single-aisle aircraft and review the planned acquisition of wide-body planes as part of a long-term strategy review.",
-      "publishedAt": "2026-10-24T08:59:12.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Odd Lots: How to Run a Restaurant For Three Decades (Podcast)",
-      "url": "https://www.bloomberg.com/news/audio/2026-10-24/odd-lots-how-to-run-a-restaurant-for-three-decades-podcast",
-      "excerpt": "Richard Mott's first foray into hospitality was in the 1980s at the University of Chicago, where he started running a coffee shop in the basement of the business school when he was a grad student. By the time he graduated, he helped grow that single coffee shop into four locations across campus. He'",
-      "publishedAt": "2026-10-24T08:00:00.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Swiss Stocks Are Becoming a Haven From AI Fears Roiling Markets",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-24/swiss-stocks-are-becoming-a-haven-from-ai-fears-roiling-markets",
-      "excerpt": "Shares of Switzerland’s ultra-defensive big companies are a bright spot in a tumultuous period for European equity markets.",
-      "publishedAt": "2026-10-24T07:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2657,8 +2645,7 @@
       "excerpt": "Luxury venue closed in September after police asked Westminster council to review its licence",
       "publishedAt": "2026-10-24T13:27:08.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "伦敦梅费尔高端俱乐部 Maison Estelle 在发生涉枪事件后，于9月停业；警方要求威斯敏斯特议会复核其牌照，该俱乐部即将重新开放。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2878,6 +2865,16 @@
     },
     {
       "sourceId": "bbc-business",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "publishedAt": "2026-10-24T23:15:18.000Z",
+      "category": "finance",
+      "source": "BBC Business",
+      "summary": "BBC苏格兰编辑詹姆斯·库克登上位于罗斯班克（Rosebank）油田的一艘船只，报道这座尚未开发的油田上的日常作业情况。该油田的开发计划仍待裁决，目前处于政治争议的中心。"
+    },
+    {
+      "sourceId": "bbc-business",
       "title": "How does the UK state pension compare with other countries?",
       "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Do British pensioners have it better or worse than those in other countries?",
@@ -2914,19 +2911,19 @@
     },
     {
       "sourceId": "bbc-business",
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-      "publishedAt": "2026-10-23T11:48:04.000Z",
+      "title": "The Indian workers filming their work to train AI",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "publishedAt": "2026-10-23T08:04:17.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
-      "title": "The Indian workers filming their work to train AI",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "publishedAt": "2026-10-23T08:04:17.000Z",
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+      "publishedAt": "2026-10-23T11:48:04.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3107,15 +3104,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "excerpt": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
       "publishedAt": "2026-10-23T08:14:04.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-      "publishedAt": "2026-10-21T15:58:05.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3418,6 +3406,15 @@
     },
     {
       "sourceId": "bbc-world",
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "publishedAt": "2026-10-24T21:09:27.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "excerpt": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
@@ -3427,13 +3424,22 @@
     },
     {
       "sourceId": "bbc-world",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "publishedAt": "2026-10-24T23:02:06.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "以色列军队拆除约旦河西岸希伯伦的巴勒斯坦人住宅，导致多个家庭流离失所。此举发生在两名以色列士兵被两名巴勒斯坦枪手杀害之后，距以色列大选仅数日。"
+    },
+    {
+      "sourceId": "bbc-world",
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
       "publishedAt": "2026-10-24T15:21:44.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "德国纳粹独裁者希特勒位于阿尔卑斯山的别墅「鹰巢」发生火灾，约200名应急人员参与扑救，一名男子已被逮捕。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3448,8 +3454,8 @@
       "sourceId": "bbc-world",
       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
       "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The children were subsequently rescued from the water, police say.",
-      "publishedAt": "2026-10-24T09:45:47.000Z",
+      "excerpt": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+      "publishedAt": "2026-10-24T17:11:56.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3458,7 +3464,7 @@
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
       "excerpt": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "publishedAt": "2026-10-24T14:45:30.000Z",
+      "publishedAt": "2026-10-24T19:12:51.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3509,10 +3515,10 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "title": "Two rescued after Nairobi building collapse with five still missing",
       "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-      "publishedAt": "2026-10-24T09:44:01.000Z",
+      "excerpt": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+      "publishedAt": "2026-10-24T17:25:46.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3554,15 +3560,6 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "publishedAt": "2026-10-23T15:37:07.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
       "title": "Argentina drops investigation into President Milei over crypto fraud",
       "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
@@ -3599,13 +3596,31 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "publishedAt": "2026-10-24T19:37:35.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "publishedAt": "2026-10-24T22:08:47.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "巴西总统选举周日投票，选民将在两名立场差异显著的候选人之间作出选择，BBC驻里约热内卢记者报道。"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
       "publishedAt": "2026-10-24T15:56:48.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "位于德国巴伐利亚州的希特勒山顶别墅「鹰巢」发生火灾，视频显示火势猛烈。警方在火灾后拘留了一名33岁的德国男子。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3622,24 +3637,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
       "excerpt": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
       "publishedAt": "2026-10-23T11:30:32.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-      "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
-      "publishedAt": "2026-10-23T05:05:03.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
-      "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
-      "publishedAt": "2026-10-22T20:48:56.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3676,15 +3673,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
       "excerpt": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
       "publishedAt": "2026-10-23T23:11:31.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
-      "publishedAt": "2026-10-23T09:23:53.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3735,6 +3723,15 @@
     },
     {
       "sourceId": "guardian-world",
+      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "excerpt": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards",
+      "publishedAt": "2026-10-24T21:10:23.000Z",
+      "category": "politics",
+      "source": "The Guardian"
+    },
+    {
+      "sourceId": "guardian-world",
       "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
       "url": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
       "excerpt": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal Bahamas police force said it had launched",
@@ -3766,15 +3763,6 @@
       "url": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
       "excerpt": "‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says When Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter. Outside the airport, it was -15C (5F). “I would come to understand that this was not an extreme cold,” she ",
       "publishedAt": "2026-10-22T15:00:29.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "excerpt": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist mo",
-      "publishedAt": "2026-10-20T16:24:05.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -3825,6 +3813,16 @@
     },
     {
       "sourceId": "guardian-world",
+      "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+      "excerpt": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email, free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event. Police said they responded to reports of shots b",
+      "publishedAt": "2026-10-24T23:13:32.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "澳大利亚布里斯班南部洛根霍尔姆一处举办拳击赛事的场所外发生驾车枪击，四人受伤，枪手仍在逃，警方已展开调查。"
+    },
+    {
+      "sourceId": "guardian-world",
       "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
       "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
       "excerpt": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email, free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next week as the embattled Greens senator apologises for publicly r",
@@ -3861,32 +3859,41 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse",
-      "url": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment",
-      "excerpt": "High inflation, low growth and rising unemployment can be added to the federal treasurer’s wall of worries Get our new political email, free app or daily news podcast Jim Chalmers in a speech last week offered the scant encouragement that the economy would be “a bit better” in a year’s time. Fast fo",
-      "publishedAt": "2026-10-23T04:54:47.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
-      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "excerpt": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support schoolchildren’s demands",
-      "publishedAt": "2026-10-24T16:06:39.000Z",
+      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+      "excerpt": "Prime minister is considering different options for new relationship with Brussels ahead of summit in November Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relatio",
+      "publishedAt": "2026-10-24T23:07:12.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "巴黎及法国多座城市数千人上街游行，法国警方已逮捕135人；意大利警方在米兰搜查住宅，西班牙和阿尔巴尼亚亦有抗议活动。一名40岁的巴黎北部慈善工作者称自己「非常愤怒」，前来支持学校。"
+      "summary": "英国首相伯纳姆表示，希望就英国与欧盟恢复人员自由流动的可能性与公众进行「坦诚讨论」；在11月峰会前，英方正考虑与布鲁塞尔构建新关系的多种方案。"
     },
     {
       "sourceId": "guardian-world",
       "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
       "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-      "excerpt": "Volodymyr Zelenskyy offers thanks to US allies for restoring system key to air defence and ‘frontline logistics’ Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government has said, 10 days after its ability to use the satellite communications system was suddenly restricted. ",
-      "publishedAt": "2026-10-24T15:47:20.000Z",
+      "excerpt": "But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ability to use the satellite communications system was suddenly restricted. But h",
+      "publishedAt": "2026-10-24T21:25:58.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "乌克兰军方称，在近期使用受限后，「星链」卫星连接已恢复稳定。泽连斯基感谢美国盟友恢复该系统，称其对防空和「前线后勤」至关重要。此时距使用受限已10天。"
+      "summary": "乌克兰政府称，在卫星通信受限10天后，乌军已恢复稳定的星链连接；SpaceX所有者马斯克则指责乌克兰军方违反公司条款。"
+    },
+    {
+      "sourceId": "guardian-world",
+      "title": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "excerpt": "French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support schoolchildren’s demands ",
+      "publishedAt": "2026-10-24T20:22:18.000Z",
+      "category": "politics",
+      "source": "The Guardian"
+    },
+    {
+      "sourceId": "guardian-world",
+      "title": "Hundreds of thousands march across France in protests over schools and policing",
+      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "excerpt": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildi",
+      "publishedAt": "2026-10-24T17:54:41.000Z",
+      "category": "politics",
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3894,24 +3901,6 @@
       "url": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
       "excerpt": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany Police have arrested a 33-year-old German citizen after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place – known as the E",
       "publishedAt": "2026-10-24T14:28:15.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
-      "url": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
-      "excerpt": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the trio Rakes of Kildare alongside his brother Frank and Christy Moore. He went",
-      "publishedAt": "2026-10-24T08:44:44.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
-      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-      "excerpt": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised count",
-      "publishedAt": "2026-10-24T06:51:53.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -3962,13 +3951,31 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Live Updates: Protesters March in France Amid Heavy Security",
-      "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
-      "excerpt": "In Marseille, clashes broke out between protesters and the police, who fired tear gas. As many as 70,000 police and security officers will try to avert the arson and looting that shocked the country last weekend.",
-      "publishedAt": "2026-10-24T16:11:14.000Z",
+      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "excerpt": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+      "publishedAt": "2026-10-25T00:10:07.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "法国抗议者在严密安保下游行。马赛示威者与警方发生冲突，警方发射催泪瓦斯。全法部署多达7万名警察和安全人员，以防上周末震惊全国的纵火和抢劫事件重演。"
+      "summary": "马斯克就乌克兰卫星服务中断首次表态，称乌克兰违反星链使用规则。此前乌方表示，使用五角大楼资助的Starshield服务的无人机已恢复正常速度。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+      "excerpt": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.",
+      "publishedAt": "2026-10-24T21:23:15.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+      "excerpt": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
+      "publishedAt": "2026-10-24T19:53:56.000Z",
+      "category": "politics",
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -3977,17 +3984,17 @@
       "excerpt": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
       "publishedAt": "2026-10-24T14:52:05.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "巴勒斯坦枪手在袭击中打死两名以色列士兵一天后，以军突袭约旦河西岸城市希伯伦，数百个巴勒斯坦家庭逃离家园。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
-      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
-      "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
-      "excerpt": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
-      "publishedAt": "2026-10-24T11:10:50.000Z",
+      "title": "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
+      "url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+      "excerpt": "El Salvador had sent hundreds of troops to find the men, who were ambushed six days ago while working as part of a U.N.-backed anti-gang task force.",
+      "publishedAt": "2026-10-25T00:06:30.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "海地发现疑似失踪萨尔瓦多士兵的遗骸。这些士兵六天前在联合国支持的反帮派任务中遭伏击，萨尔瓦多已派出数百名军人搜寻。"
     },
     {
       "sourceId": "nyt-world",
@@ -4000,22 +4007,31 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
-      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
-      "excerpt": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
-      "publishedAt": "2026-10-24T04:01:09.000Z",
+      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+      "url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+      "excerpt": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”",
+      "publishedAt": "2026-10-24T16:02:21.000Z",
       "category": "politics",
       "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
-      "title": "Drones on Starshield Network Are Back to Normal Speeds, Ukraine Says",
-      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "excerpt": "The announcement followed more than a week of unexplained problems with Starshield, the Pentagon-funded satellite network Ukraine relies on to thwart Russian attacks.",
-      "publishedAt": "2026-10-24T16:11:38.000Z",
+      "title": "Violent Protests Resurface in Albania: What to Know",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+      "excerpt": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
+      "publishedAt": "2026-10-24T21:54:36.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "乌克兰表示，依托美国国防部资助的「星盾」卫星网络运行的无人机已恢复正常速度。此前该网络出现持续一周多的不明原因故障。乌方依赖该系统抵御俄方攻击。"
+      "summary": "阿尔巴尼亚数千名学生再次上街示威，抗议教育问题、生活成本上升，以及一个与特朗普女婿库什纳相关的项目，示威中出现暴力。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+      "excerpt": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+      "publishedAt": "2026-10-24T17:45:16.000Z",
+      "category": "politics",
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4058,46 +4074,9 @@
       "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
       "url": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
       "excerpt": "Flávio Bolsonaro, the son of the former president who was jailed over a coup plot, could be on the cusp of winning Brazil’s presidency.",
-      "publishedAt": "2026-10-24T09:03:12.000Z",
+      "publishedAt": "2026-10-24T09:03:13.000Z",
       "category": "politics",
       "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Why Are There Protests in France?",
-      "url": "https://www.nytimes.com/article/france-student-protests-why.html",
-      "excerpt": "The authorities deployed tens of thousands of security forces and banned demonstrations in some cities, hoping to avoid a repeat of the riots that shook the country a week ago.",
-      "publishedAt": "2026-10-24T11:08:49.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
-      "url": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
-      "excerpt": "Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.",
-      "publishedAt": "2026-10-24T13:00:52.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "The Bukeleization of Latin America Has Arrived",
-      "url": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
-      "excerpt": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
-      "publishedAt": "2026-10-23T13:05:25.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
-      "url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
-      "excerpt": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”",
-      "publishedAt": "2026-10-24T16:02:21.000Z",
-      "category": "politics",
-      "source": "NYT World",
-      "summary": "特朗普政府指称加拿大官员试图影响美国中期选举、为民主党助选。加拿大总理卡尼表示这些指控「毫无根据」。"
     },
     {
       "sourceId": "nyt-world",
@@ -4106,8 +4085,7 @@
       "excerpt": "Americans on hand for the N.F.L.’s first-ever game in France found famous museums closed and shops boarded up.",
       "publishedAt": "2026-10-24T16:00:32.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "巴黎为防范骚乱加强戒备，游客遭遇冷清接待。前来观看美国职业橄榄球联盟（NFL）在法国首场比赛的美国游客发现，知名博物馆闭馆、商铺用木板封门。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4123,7 +4101,7 @@
       "title": "How a Small Student Protest Spread Across France",
       "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-timeline.html",
       "excerpt": "A movement that began with a few high schools has broadened to encompass labor unions and other activists.",
-      "publishedAt": "2026-10-24T09:46:49.000Z",
+      "publishedAt": "2026-10-24T09:46:50.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4132,10 +4110,9 @@
       "title": "Here’s the latest.",
       "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/heres-the-latest",
       "excerpt": "",
-      "publishedAt": "2026-10-24T15:16:51.000Z",
+      "publishedAt": "2026-10-24T18:35:47.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "该条目为法国抗议与骚乱直播报道的最新更新，标题与摘要均未提供具体信息，内容以滚动更新为主。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4157,13 +4134,21 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "How Defiant Youth Are Testing India’s Idea of Democracy",
+      "url": "https://www.nytimes.com/2026/10/24/world/asia/india-youth-democracy-protest.html",
+      "excerpt": "Four takeaways from India’s protest movement, at a moment when democracies around the world are under pressure.",
+      "publishedAt": "2026-10-24T13:00:52.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
       "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
       "excerpt": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
       "publishedAt": "2026-10-24T16:09:15.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "美国官员称，伊朗正处在策划袭击美国人的「深入阶段」。美国政府已下令驻沙特阿拉伯的外交官及其他联邦雇员撤离，并缩减该地区其他使团的人员规模。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4179,7 +4164,7 @@
       "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
       "url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
       "excerpt": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others.",
-      "publishedAt": "2026-10-23T16:47:14.000Z",
+      "publishedAt": "2026-10-24T19:31:56.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4236,6 +4221,33 @@
       "publishedAt": "2026-10-23T23:07:34.000Z",
       "category": "politics",
       "source": "NYT World"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Protests roil France once again as police seek to quell violence",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+      "excerpt": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
+      "publishedAt": "2026-10-24T21:21:00.000Z",
+      "category": "politics",
+      "source": "NPR World"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
+      "excerpt": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.",
+      "publishedAt": "2026-10-24T21:20:52.000Z",
+      "category": "politics",
+      "source": "NPR World"
+    },
+    {
+      "sourceId": "npr-world",
+      "title": "Ukraine says Starlink is back to normal after disruptions",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "excerpt": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
+      "publishedAt": "2026-10-24T17:54:25.000Z",
+      "category": "politics",
+      "source": "NPR World"
     },
     {
       "sourceId": "npr-world",
@@ -4297,33 +4309,6 @@
       "url": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
       "excerpt": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
       "publishedAt": "2026-10-23T10:36:15.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-      "excerpt": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
-      "publishedAt": "2026-10-23T09:40:32.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
-      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-      "excerpt": "Governments around the world are rushing to implement safety measures after AI technology found \"severe\" vulnerabilities in a key programming language called PHP.",
-      "publishedAt": "2026-10-23T09:37:38.000Z",
-      "category": "politics",
-      "source": "NPR World"
-    },
-    {
-      "sourceId": "npr-world",
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
-      "excerpt": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
-      "publishedAt": "2026-10-23T09:00:00.000Z",
       "category": "politics",
       "source": "NPR World"
     },
@@ -4599,13 +4584,208 @@
     },
     {
       "sourceId": "aljazeera",
-      "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
-      "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-      "excerpt": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank.",
-      "publishedAt": "2026-10-24T15:50:49.000Z",
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+      "excerpt": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+      "publishedAt": "2026-10-25T00:00:00.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "以色列在约旦河西岸希伯伦发动突袭，逾2000名巴勒斯坦人被迫离开家园，城市封锁，居民称「生活在恐惧中」，以军还在西岸多地逮捕数十人。"
+      "summary": "特朗普表示，美国正考虑最早于周日对伊朗发动攻击，也可能与德黑兰达成一项重大协议。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+      "excerpt": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.",
+      "publishedAt": "2026-10-24T23:08:16.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "俄乌在奥列什基达成局部停火协议后，特朗普称赞第一夫人梅拉尼娅发挥了作用，称她「比专业人士更强」。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+      "excerpt": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+      "publishedAt": "2026-10-24T22:35:45.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "尼日利亚警方称，一群武装分子袭击了塔拉巴州宾纳里村，造成至少10人死亡。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "excerpt": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
+      "publishedAt": "2026-10-24T22:28:37.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "分析指出，自上次美国大选以来，民主党在跨性别权利、加沙战争等议题上的政策立场有所调整，候选人正回应选民态度的变化。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+      "excerpt": "The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.",
+      "publishedAt": "2026-10-24T21:39:29.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "巴西总统选举决选前夕，卢拉与博索纳罗分别举行集会，各吸引数千人参加。决选结果将决定巴西继续由左翼领导人执政，还是转向右翼。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+      "excerpt": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "publishedAt": "2026-10-24T21:36:23.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "巴西总统选举两名候选人在势均力敌的决选前举行最后一场竞选集会。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+      "excerpt": "Tehran warns that even limited strikes would trigger a response 'several times greater'.",
+      "publishedAt": "2026-10-24T21:30:11.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "伊朗指责美国导致协议失败，呼吁重新尝试谈判，并在担忧新袭击之际警告：即使有限打击也将招致「数倍」回应。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "excerpt": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base.",
+      "publishedAt": "2026-10-24T21:08:51.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Train slams into crane that collapsed onto railway line in Brazil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
+      "excerpt": "Video shows the moment a train collided with a crane that had fallen onto railway tracks in Brazil.",
+      "publishedAt": "2026-10-24T21:02:55.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Severe hunger stalks people in Gaza as bakeries close down",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+      "excerpt": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.",
+      "publishedAt": "2026-10-24T20:52:55.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Violent clashes as Albanian government cracks down on protests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+      "excerpt": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.",
+      "publishedAt": "2026-10-24T20:39:08.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "excerpt": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+      "publishedAt": "2026-10-24T20:37:02.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+      "excerpt": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
+      "publishedAt": "2026-10-24T20:03:29.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "excerpt": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+      "publishedAt": "2026-10-24T19:11:48.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Thousands join Paris protests as authorities clamp down on disorder",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+      "excerpt": "Thousands of protesters are on the streets of Paris for a second weekend.",
+      "publishedAt": "2026-10-24T19:01:52.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Thousands gather at new Albanian antigovernment rally",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "excerpt": "More than 300 protesters and police were injured in the Albanian capital Tirana's fiercest clashes in days.",
+      "publishedAt": "2026-10-24T18:30:56.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "excerpt": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "publishedAt": "2026-10-24T18:00:20.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Trump says he may move White House press corps to new location",
+      "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+      "excerpt": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+      "publishedAt": "2026-10-24T17:01:34.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+      "url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+      "excerpt": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+      "publishedAt": "2026-10-24T16:48:36.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Serbian elections: A country where students may actually take power",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
+      "excerpt": "Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.",
+      "publishedAt": "2026-10-24T16:36:44.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
+      "excerpt": "Bragging rights are up for grabs in Sunday's El Clasico between La Liga leaders Barcelona and third-placed Real Madrid.",
+      "publishedAt": "2026-10-24T16:18:17.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+      "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+      "excerpt": "Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across West Bank.",
+      "publishedAt": "2026-10-24T15:50:49.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4614,18 +4794,16 @@
       "excerpt": "The race between Brazil's president and the right-wing senator has tightened in recent days.",
       "publishedAt": "2026-10-24T15:36:38.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "民调显示，在巴西大选决选前，总统卢拉与右翼参议员博索纳罗支持率大致持平，近日选情明显收紧。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
-      "title": "Security forces deploy as Milan braces for another day of protests",
+      "title": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
       "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-      "excerpt": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "excerpt": "The Italian government sent hundreds of soldiers to the country's fashion and financial hub ahead of anticipated unrest.",
       "publishedAt": "2026-10-24T15:05:58.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "意大利政府向金融中心米兰派遣数百名士兵，安全部队已经部署，以应对预计将出现的又一天抗议活动。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4633,196 +4811,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
       "excerpt": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
       "publishedAt": "2026-10-24T14:56:47.000Z",
-      "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "塞浦路斯民众表示，以色列游客和投资者的涌入威胁当地生意，并迫使社区居民搬离原有街区。"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Full lockdown of occupied West Bank begins",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-      "excerpt": "The Israeli army begins its lockdown and military operations across the West Bank.",
-      "publishedAt": "2026-10-24T14:24:19.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-      "excerpt": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
-      "publishedAt": "2026-10-24T14:23:40.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
-      "excerpt": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or.",
-      "publishedAt": "2026-10-24T14:21:34.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
-      "excerpt": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.",
-      "publishedAt": "2026-10-24T14:04:27.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
-      "url": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
-      "excerpt": "Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?",
-      "publishedAt": "2026-10-24T13:58:14.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
-      "excerpt": "The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.",
-      "publishedAt": "2026-10-24T13:52:08.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
-      "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
-      "excerpt": "Sudan is suffering from a cost-of-living crisis affecting millions across the country.",
-      "publishedAt": "2026-10-24T13:51:08.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Who was behind the deadly church shooting in Jordan?",
-      "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
-      "excerpt": "Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.",
-      "publishedAt": "2026-10-24T13:39:26.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "excerpt": "Netanyahu floats Crypto to bypass sanctions",
-      "publishedAt": "2026-10-24T13:27:11.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
-      "excerpt": "A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.",
-      "publishedAt": "2026-10-24T13:16:23.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "FIFA’s Infantino touts global re-election support amid resignation questions",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss",
-      "excerpt": "Support from Asian federation bolsters FIFA's Gianni Infantino as he seeks re-election as president for a fourth term.",
-      "publishedAt": "2026-10-24T13:12:03.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
-      "excerpt": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
-      "publishedAt": "2026-10-24T13:06:03.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
-      "url": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
-      "excerpt": "Authorities searching for attackers say too early to determine if they had ties to known groups, as death toll now nine.",
-      "publishedAt": "2026-10-24T13:02:51.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "France protests live: 135 arrested as marches held under tight security",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
-      "excerpt": "Authorities say they are determined to prevent another weekend of looting, burned cars and attacks on public buildings.",
-      "publishedAt": "2026-10-24T12:55:37.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
-      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
-      "excerpt": "US intelligence memo warns that Iranian plots against US citizens in the Middle East 'have reached advanced stages'.",
-      "publishedAt": "2026-10-24T12:51:21.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
-      "excerpt": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
-      "publishedAt": "2026-10-24T12:30:42.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Serbia elections test student movement demanding justice for 16 victims",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
-      "excerpt": "Serbia elections test student movement demanding justice for 16 victims",
-      "publishedAt": "2026-10-24T12:18:06.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Barcelona housing activists evicted by police from residential building",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss",
-      "excerpt": "Housing activists in Barcelona seized a mostly empty building to house vulnerable families and create a community hub.",
-      "publishedAt": "2026-10-24T12:14:00.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
-      "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss",
-      "excerpt": "Matches between Barca and Real are among the biggest in world football, with their rivalry spanning more than a century.",
-      "publishedAt": "2026-10-24T12:05:40.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Czech Republic advances media funding overhaul despite criticism",
-      "url": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
-      "excerpt": "Journalists prepare to strike as politicians push through changes that critics say threaten independence.",
-      "publishedAt": "2026-10-24T11:50:32.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Democracy by ZIP Code: Two Americas, one election",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
-      "excerpt": "How can Americans living just miles apart experience completely different versions of the American dream?",
-      "publishedAt": "2026-10-24T11:44:16.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
